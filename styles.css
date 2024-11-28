@@ -569,11 +569,11 @@ nav a:hover {
     }
 
     &:nth-child(2) .box .icon .iconBox {
-        background: #BDA79B;
+        background: #E50914;
     }
 
     &:nth-child(3) .box .icon .iconBox {
-        background: #212121;
+        background: #4a3429;
     }
 }
 
